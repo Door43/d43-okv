@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[okv:home|Door43 (okv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-okv|d43-okv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-okv/archive/master.zip|d43-okv.zip]]
+
+**Recent Changes**
+{{changes>ns = okv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/okv|Ethnologue data]]
+
